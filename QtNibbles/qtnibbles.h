@@ -14,6 +14,10 @@ public:
 
 private:
 	Ui::QtNibblesClass ui;
+
+	private slots:
+	void exit();
+
 };
 
 #endif // QTNIBBLES_H
